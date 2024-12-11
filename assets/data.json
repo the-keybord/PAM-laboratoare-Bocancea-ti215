@@ -1,0 +1,73 @@
+{
+  "locations": ["Stalinsk, URSS", "Ciocana, Moldova", "Salcuta, Causeni"],
+  "imageList": [
+    "assets/images/carusel1.jpg",
+    "assets/images/carusel2.jpg",
+    "assets/images/carusel4.jpg"
+  ],
+  "categories": [
+    {"label": "Dentistry", "icon": "dent"},
+    {"label": "Cardiology", "icon": "card"},
+    {"label": "Pulmonology", "icon": "pulm"},
+    {"label": "General", "icon": "gene"},
+    {"label": "Neurology", "icon": "neur"},
+    {"label": "Gastroenterology", "icon": "gast"},
+    {"label": "Laboratory", "icon": "labo"},
+    {"label": "Vaccination", "icon": "vacc"}
+  ],
+  "medicalCenters": [
+    {
+      "image": "assets/images/spital1.png",
+      "name": "Sunrise Health Clinic",
+      "address": "123 Oak Street, CA 98765",
+      "rating": 4.5,
+      "reviews": 58,
+      "distance": "2.5km/40 min",
+      "type": "Hospital"
+    },
+    {
+      "image": "assets/images/spital2.png",
+      "name": "Cardiologie Truseni",
+      "address": "Primaria, Truseni, Moldova",
+      "rating": 4.0,
+      "reviews": 108,
+      "distance": "36km/180 min",
+      "type": "Hospital"
+    },
+    {
+      "image": "assets/images/spital3.png",
+      "name": "Spitalul municipal",
+      "address": "Str. Porcului, Chisinau",
+      "rating": 3.8,
+      "reviews": 69,
+      "distance": "3.5km/45 min",
+      "type": "Hospital"
+    }
+  ],
+  "doctors": [
+    {
+      "name": "Dr. Khalid Khasmiri",
+      "specialty": "Cardiologist",
+      "clinic": "Heart Care Center",
+      "address": "New York, USA",
+      "image": "assets/images/doc1.png",
+      "rating": 5.0
+    },
+    {
+      "name": "Dr. Muhammad Sumbul",
+      "specialty": "Cardiologist",
+      "clinic": "Heart Care Center",
+      "address": "New York, USA",
+      "image": "assets/images/doc2.png",
+      "rating": 4.5
+    },
+    {
+      "name": "Dr. Khidir Karawita",
+      "specialty": "Cardiologist",
+      "clinic": "Heart Care Center",
+      "address": "New York, USA",
+      "image": "assets/images/doc3.png",
+      "rating": 4.0
+    }
+  ]
+}
